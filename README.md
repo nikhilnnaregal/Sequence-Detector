@@ -1,1 +1,1 @@
-# Sequence-detector
+# sequence-detector-using-verilog
